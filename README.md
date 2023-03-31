@@ -10,3 +10,7 @@
 - [Tmux](https://tmuxcheatsheet.com/)
 - [SSH](https://quickref.me/ssh)
 - [For everything else](https://quickref.me/)
+
+## Tools
+- [Regex for Dummies](https://regex101.com/)
+- [Json Formattor/Validator](https://jsononline.net/json-formatter)
